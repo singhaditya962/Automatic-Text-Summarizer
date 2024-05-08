@@ -34,10 +34,3 @@ The concept of text summarisation is to create a shorter version of a text docum
  * Networkx (for page rank algorithm).
  * Numpy (for building matrix).
  * HTML, CSS, Bootstrap, Python-flask
-
-
-
-## License 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-<br/>
-This project is under the Apache 2.0 License. See [LICENSE](LICENSE) for Details.
